@@ -4,8 +4,8 @@ I carry out a study on 4 variables that can affect the energy efficiency of vehi
 Notions aboarded in Probability and Statistics class were aboarded, and the entire project was coded using R-Studio.
 Notions seen :
 - Correlations matrices
-- Diagrams ( Histograms, Turkeys Diagrams, Henry's plot line )
-- Confidence Interval ( L/U )
+- Diagrams (Histograms, Turkeys Diagrams, Henry's plot line)
+- Confidence Interval (L/U)
 - Hypothetical tests
 - Analyse of models
 - Signification tests (Residuals vs Fitted, Normal Q-Q, Scale-Location et Residuals vs Leverage)
